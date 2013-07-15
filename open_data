@@ -1,6 +1,13 @@
 http://farmsubsidy.openspending.org/DE/
   A site that lists the farm subsidy payments made in Germany.
   
+FarmSubsidy habe ich vor kurzem einigermaßen stabil aufgesetzt:
+http://farmsubsidy.openspending.org/
+http://github.com/openspending/Farm-Subsidy
+
+Die Daten zu den Ländern habe ich bereinigt und hier verfügbar gemacht:
+http://data.farmsubsidy.org
+  
 
 http://www.offene-entwicklungshilfe.de/
   Data visualisation of funding to developing countries. Has some good examples.
